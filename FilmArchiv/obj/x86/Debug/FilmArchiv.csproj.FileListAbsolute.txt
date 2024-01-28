@@ -1,0 +1,8 @@
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\bin\Debug\FilmArchiv.exe
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\bin\Debug\FilmArchiv.pdb
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.Form1.resources
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.Properties.Resources.resources
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.csproj.GenerateResource.Cache
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.exe
+c:\users\tn.intrain-pc\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.pdb
+C:\Users\tn.intrain-PC\documents\visual studio 2010\Projects\FilmArchiv\FilmArchiv\obj\x86\Debug\FilmArchiv.csprojResolveAssemblyReference.cache
